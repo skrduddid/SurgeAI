@@ -7,9 +7,7 @@
 ![GitHub License](https://img.shields.io/github/license/sendaifun/solana-agent-kit?style=for-the-badge)
 ![Experimental](https://img.shields.io/badge/Status-Experimental-yellow?style=for-the-badge)
 ![Solana](https://img.shields.io/badge/Blockchain-Solana-blue?style=for-the-badge)
-
 </div>
-
 
 ## ⚠️Statement: 
 SurgeAI is developed based on the QuantBench large model and in conjunction with the Solana Agent Kit. QuantBench: https://arxiv.org/html/2504.18600v1 Solana Agent Kit: https://github.com/sendaifun/solana-agent-kit.
