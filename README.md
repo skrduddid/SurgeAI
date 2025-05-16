@@ -2,7 +2,7 @@
 
 # AI-Driven Token Issuance and Market Manipulation Experiment
 
-![Project Banner](docs/surgeAI.jpg)
+![Project Banner](https://raw.githubusercontent.com/skrduddid/SurgeAI/refs/heads/main/docs/SurgeAI.jpg)
 
 ![GitHub License](https://img.shields.io/github/license/sendaifun/solana-agent-kit?style=for-the-badge)
 ![Experimental](https://img.shields.io/badge/Status-Experimental-yellow?style=for-the-badge)
