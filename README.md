@@ -194,10 +194,6 @@ Results of this experiment will be documented and published as research findings
 - Technical limitations and challenges
 - Ethical considerations
 
-## 👥 Contributing
-
-This is an experimental research project. If you're interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ## 📄 License
 
 This project is licensed under the Apache-2 License - see the [LICENSE](LICENSE) file for details.
