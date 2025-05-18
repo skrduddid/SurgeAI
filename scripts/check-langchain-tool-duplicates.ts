@@ -22,6 +22,7 @@ function findDuplicateNames(tools: Tool[]): Map<string, string[]> {
   return duplicates;
 }
 
+
 function findDuplicateClasses(tools: Tool[]): Map<string, string[]> {
   const classMap = new Map<string, string[]>();
 
