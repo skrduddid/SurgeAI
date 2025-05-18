@@ -1,0 +1,22 @@
+{
+  "name": "okx-dex-starter",
+  "version": "1.0.0",
+  "description": "A starter project for using OKX DEX with Solana Agent Kit",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node okx-dex-solana.ts"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.51",
+    "@langchain/langgraph": "^0.2.67",
+    "@langchain/openai": "^0.5.10",
+    "@okx-dex/okx-dex-sdk": "^1.0.11",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "solana-agent-kit": "^2.0.3",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
