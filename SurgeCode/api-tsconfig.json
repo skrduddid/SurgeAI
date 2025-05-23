@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "outDir": "./dist",
+    "strict": true,
+    "skipLibCheck": true,
+    "sourceMap": false
+  },
+  "include": [
+    "example/basic/api.ts",
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+} 

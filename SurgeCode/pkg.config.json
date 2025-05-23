@@ -1,0 +1,19 @@
+{
+  "bin": "dist/api-exe.js",
+  "scripts": [
+    "node_modules/@coral-xyz/anchor/**/**.js", 
+    "node_modules/@solana/**/*.js", 
+    "node_modules/@raydium-io/**/*.js",
+    "example/basic/**/*.js", 
+    "dist/**/*.js"
+  ],
+  "assets": [
+    "example/basic/**/*", 
+    "!example/basic/**/*.ts", 
+    "dist/**/*",
+    "node_modules/**/*.node",
+    ".env"
+  ],
+  "targets": ["node16-win-x64"],
+  "outputPath": "bin"
+} 
