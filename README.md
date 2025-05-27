@@ -63,7 +63,7 @@ This project is built as a research experiment to study market dynamics and AI-d
 
 ## 💰 Project Fund Allocation
 
-- **Initial Investment**: 500-1,000 SOL allocation for establishing initial liquidity
+- **Initial Investment**: 2000SOL allocation for establishing initial liquidity
 - **User Profit Model**:
   - Users donate SOL to the protocol
   - AI automatically issues tokens via Pump.fun
